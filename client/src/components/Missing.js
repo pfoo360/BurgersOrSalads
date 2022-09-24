@@ -1,6 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
-const Error = () => {
+const Missing = () => {
   return (
     <>
       <div className="flex justify-center pt-4 max-w-[1024px] lg:mx-auto">
@@ -15,4 +15,4 @@ const Error = () => {
   );
 };
 
-export default Error;
+export default Missing;

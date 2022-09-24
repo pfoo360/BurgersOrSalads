@@ -3,7 +3,7 @@ import SharedLayout from "./components/SharedLayout";
 import About from "./components/About";
 import Form from "./components/Form";
 import How from "./components/How";
-import Error from "./components/Error";
+import Missing from "./components/Missing";
 
 function App() {
   return (
@@ -13,7 +13,7 @@ function App() {
           <Route index element={<Form />} />
           <Route path="how" element={<How />} />
           <Route path="about" element={<About />} />
-          <Route path="*" element={<Error />} />
+          <Route path="*" element={<Missing />} />
         </Route>
       </Routes>
     </BrowserRouter>
