@@ -1,4 +1,4 @@
-# Chicken Or Salad
+# Pizza Or Salad
 
 ![start_screen](/start_screen.png)
 
