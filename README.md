@@ -43,4 +43,5 @@ Simply enter a list of food choices and how far you are willing to travel
 - error handling
 - better responsive web design and using more media queries to accomodate more screen sizes
 - form handling in the back-end
+- think of a better name for the app
 - use less emojis
