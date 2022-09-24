@@ -6,6 +6,7 @@
 
 It answers the age-old question: where do you want to eat? 
 <br/>
+<br/>
 Simply enter a list of food choices and how far you are willing to travel 
 <br/>
 ![selection_screen](/selection_screen.png)
