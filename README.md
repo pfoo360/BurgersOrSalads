@@ -28,6 +28,7 @@ Simply enter a list of food choices and how far you are willing to travel
 - ExpressJS
 - NodeJS
 - REST
+- [cors middleware](https://www.npmjs.com/package/cors) (handling Cross Origin Resource Sharing)
 - [api library](https://www.npmjs.com/package/api)
 - [FourSquare Places API](https://developer.foursquare.com/docs/places-api-overview)
 
