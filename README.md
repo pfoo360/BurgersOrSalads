@@ -27,21 +27,21 @@ Simply enter a list of food choices and how far you are willing to travel
 - ExpressJS
 - NodeJS
 - REST
-- api library
-- FourSquare Places API
+- [api library](https://www.npmjs.com/package/api)
+- [FourSquare Places API](https://developer.foursquare.com/docs/places-api-overview)
 
 # Goals
 
 - To build the front-end and back-end of a simple application, from reading documentation to final product, in a weekend
-- Working with an API that I did not create, in this case the [FourSquare Places API](https://developer.foursquare.com/docs/places-api-overview)
-- Experimenting with NodeJS and ExpressJS to create a REST API
-- Working with TailwindCSS for styling and responsive web design
+- To work with an API that I did not create, in this case the [FourSquare Places API](https://developer.foursquare.com/docs/places-api-overview)
+- To experiment with NodeJS and ExpressJS to create a simple REST API
+- To work with TailwindCSS for styling and responsive web design
 - etc.
 
 # Things that could be improved
 
-- error handling
+- error handling for more edge cases
 - better responsive web design and using more media queries to accomodate more screen sizes
-- form handling in the back-end
+- form-handling/data-cleaning in the back-end
 - think of a better name for the app
 - use less emojis
