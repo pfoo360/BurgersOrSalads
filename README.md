@@ -1,4 +1,4 @@
-# Burgers Or Salads
+# Chicken Or Salad
 
 ![start_screen](/start_screen.png)
 
