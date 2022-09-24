@@ -30,11 +30,11 @@ Client stores user inputs in React states. Error handling is done after every us
 
 # Things that could be improved
 
-- error handling on more edge cases
-- use Formik library to handle form instead of manual creation
-- use Context API or React Redux to persist form data even if user navigates to another part of the app to improve UX
-- better responsive web design and using more media queries to accomodate more screen sizes
-- using Google Maps API (unfortunately, it is a paid service so an iFrame was used instead)
-- form handling/data cleaning in the back-end
-- think of a better name for the app
-- use less emojis
+- Error handling on more edge cases
+- Use Formik library to handle form instead of manual creation
+- Use Context API or React Redux to persist form data even if user navigates to another part of the app to improve UX
+- Better responsive web design and using more media queries to accomodate more screen sizes
+- Use Google Maps API (unfortunately, it is a paid service so an iFrame was used instead)
+- Form handling/data cleaning in the back-end
+- Think of a better name for the app
+- Use less emojis
