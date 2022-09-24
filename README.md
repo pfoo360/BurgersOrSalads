@@ -18,7 +18,7 @@ Simply enter a list of food choices and how far you are willing to travel
 
 ## Client
 
-- React & Hooks
+- React (functional components & hooks)
 - React Router
 - Axios
 - TailwindCSS
