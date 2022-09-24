@@ -10,7 +10,7 @@ Simply enter a list of food choices and how far you are willing to travel
 <br/>
 ![selection_screen](/selection_screen.png)
 <br/> 
- Hit Submit and and app will return a spot corresponding to one of the food choices
+ Hit Submit and the app will return a spot corresponding to one of the food choices
 ![result_screen](/result_screen.png)
 
 # Technical details
