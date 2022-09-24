@@ -35,6 +35,7 @@ Client stores user inputs in React states. Error handling is done after every us
 - Use Context API or React Redux to persist form data even if user navigates to another part of the app to improve UX
 - Better responsive web design and using more media queries to accomodate more screen sizes
 - Use Google Maps API (unfortunately, it is a paid service so an iFrame was used instead)
+- Code splitting and file structure organization
 - Form handling/data cleaning in the back-end
 - Think of a better name for the app
 - Use less emojis
