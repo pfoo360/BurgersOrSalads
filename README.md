@@ -18,10 +18,11 @@ Client stores user inputs in React states. Error handling is done after every us
 
 # Goals
 
-- To build the front-end and back-end of a simple application, from reading documentation to final product, in a weekend
-- To work with an API that I did not create, in this case the [FourSquare Places API](https://developer.foursquare.com/docs/places-api-overview)
-- To experiment with NodeJS and ExpressJS to create a simple REST API
-- To learn TailwindCSS for styling and responsive web design
+- Build the front-end and back-end of a simple application, from reading documentation to final product, in a weekend
+- Work with an API that I did not create, in this case the [FourSquare Places API](https://developer.foursquare.com/docs/places-api-overview)
+- Experiment with NodeJS and ExpressJS to create a simple REST API
+- Learn TailwindCSS for styling and responsive web design
+- Try/catch blocks and other error handling
 - etc.
 
 # Things that could be improved
