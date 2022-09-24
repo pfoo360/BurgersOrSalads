@@ -44,6 +44,7 @@ Simply enter a list of food choices and how far you are willing to travel
 
 - error handling for more edge cases
 - better responsive web design and using more media queries to accomodate more screen sizes
+- using Google Maps API (unfortunately, it is a paid service so an iFrame was used instead)
 - form-handling/data-cleaning in the back-end
 - think of a better name for the app
 - use less emojis
